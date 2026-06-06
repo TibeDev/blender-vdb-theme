@@ -7,7 +7,7 @@ tagline = "Dark yellow accent theme"
 maintainer = "TibeDev"
 type = "theme"
 
-website = ""
+website = "https://github.com/TibeDev/blender-vdb-theme"
 tags = ["Dark"]
 
 blender_version_min = "5.0.0"
