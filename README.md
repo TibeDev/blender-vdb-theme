@@ -1,3 +1,3 @@
 # &lt;/BLENDER-VDB-THEME&gt;
 ![Preview](./art/cover.png)
-A theme for **[Omarchy](https://https://www.blender.org/)**
+A theme for **[Blender](https://https://www.blender.org/)**
