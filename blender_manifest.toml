@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "VDB_Theme"
+version = "1.0.3"
+name = "VDB Theme"
+tagline = "Dark yellow accent theme"
+maintainer = "TibeDev"
+type = "theme"
+
+website = ""
+tags = ["Dark"]
+
+blender_version_min = "5.0.0"
+blender_version_max = "5.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
